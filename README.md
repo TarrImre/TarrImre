@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Toxy</h1>
-<h3 align="center">Student at the University of Debrecen as a Computer Engineer</h3>
+<h3 align="center">🎓Student at the University of Debrecen as a Computer Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarrimre&label=Profile%20views&color=0e75b6&style=flat" alt="tarrimre" /> </p>
+- 🤓 I’m currently learning **web development**
 
-- 🌱 I’m currently learning **web development**
-
-- 👨‍💻 My thesis [Unilocker](https://github.com/TarrImre/UniLocker)
+- 👨‍💻 My thesis: [Unilocker](https://github.com/TarrImre/UniLocker)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
