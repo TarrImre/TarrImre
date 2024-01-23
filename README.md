@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Toxy</h1>
-<h3 align="center">🎓Student at the University of Debrecen as a Computer Engineer</h3>
+<h3 align="center">🎓Computer Science Engineer</h3>
 
 - 🤓 I’m currently learning **web development**
 
