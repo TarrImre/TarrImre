@@ -5,11 +5,14 @@
 
 - 👨‍💻 My thesis: [Unilocker](https://github.com/TarrImre/UniLocker)
 
+<p align="left">
+<a href="https://toxy.hu/certiport/certiport_htmlcss.pdf" target="blank"><img align="center" src="https://toxy.hu/certiport/ITS-Badges_HTML-and-CSS_1200px.png" alt="certiport_html_and_css" height="40" width="40" /></a>
+<a href="https://toxy.hu/certiport/certiport_js.pdf" target="blank"><img align="center" src="https://toxy.hu/certiport/ITS-Badges_JavaScript_1200px.png" alt="certiport_js" height="40" width="40" /></a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/imi.toxy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imi.toxy" height="30" width="40" /></a>
-<a href="https://toxy.hu/certiport/certiport_htmlcss.pdf" target="blank"><img align="center" src="https://toxy.hu/certiport/ITS-Badges_HTML-and-CSS_1200px.png" alt="certiport_html_and_css" height="40" width="40" /></a>
-<a href="https://toxy.hu/certiport/certiport_js.pdf" target="blank"><img align="center" src="https://toxy.hu/certiport/ITS-Badges_JavaScript_1200px.png" alt="certiport_js" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
