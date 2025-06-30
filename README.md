@@ -2,11 +2,11 @@
 <h3 align="center">🎓Computer Science Engineer</h3>
 
 <h3 align="left">Current main project:</h3>
-<h4 align="left">Tetra</h4>
+-Tetra
 
 <h3 align="left">Upcoming projects:</h3>
-<h4 align="left">AIVA/EVOA</h4>
-<h4 align="left">WALL-E</h4>
+-AIVA/EVOA
+-WALL-E
 
 - 👨‍💻 My thesis: [Unilocker](https://github.com/TarrImre/UniLocker)
 
