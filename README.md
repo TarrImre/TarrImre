@@ -8,6 +8,7 @@
 -AIVA/EVOA
 -WALL-E
 
+<br/>
 - 👨‍💻 My thesis: [Unilocker](https://github.com/TarrImre/UniLocker)
 
 <p align="left">
