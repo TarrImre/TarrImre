@@ -5,6 +5,13 @@
 
 - 👨‍💻 My thesis: [Unilocker](https://github.com/TarrImre/UniLocker)
 
+<h3 align="left">Current main project:</h3>
+<h4 align="left">Tetra</h4>
+
+<h3 align="left">Upcoming projects:</h3>
+<h4 align="left">AIVA/EVOA</h4>
+<h4 align="left">WALL-E</h4>
+
 <p align="left">
 <a href="https://toxy.hu/certiport/certiport_htmlcss.pdf" target="blank"><img align="center" src="https://toxy.hu/certiport/ITS-Badges_HTML-and-CSS_1200px.png" alt="certiport_html_and_css" height="128" width="128" /></a>
 <a href="https://toxy.hu/certiport/certiport_js.pdf" target="blank"><img align="center" src="https://toxy.hu/certiport/ITS-Badges_JavaScript_1200px.png" alt="certiport_js" height="128" width="128" /></a>
