@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Toxy</h1>
 <h3 align="center">🎓Computer Science Engineer</h3>
 
+- 👨‍💻 My thesis: [Unilocker](https://github.com/TarrImre/UniLocker)
+
 <h3 align="left">Current main project:</h3>
 -Tetra
 
 <h3 align="left">Upcoming projects:</h3>
 -AIVA/EVOA
 -WALL-E
-
-
-- 👨‍💻 My thesis: [Unilocker](https://github.com/TarrImre/UniLocker)
 
 <p align="left">
 <a href="https://toxy.hu/certiport/certiport_htmlcss.pdf" target="blank"><img align="center" src="https://toxy.hu/certiport/ITS-Badges_HTML-and-CSS_1200px.png" alt="certiport_html_and_css" height="128" width="128" /></a>
