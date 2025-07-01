@@ -10,6 +10,8 @@
 -AIVA/EVOA
 -WALL-E
 
+<p>Most of my projects are private, which is why there isn't much activity visible on my profile or in my work.</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/imi.toxy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imi.toxy" height="30" width="40" /></a>
