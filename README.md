@@ -3,6 +3,8 @@
 
 - 👨‍💻 My thesis: [Unilocker](https://github.com/TarrImre/UniLocker)
 
+- 🌐 Portfolio: [imi.toxy](https://imi.toxy.hu)
+
 <h3 align="left">Current main project:</h3>
 -Tetra
 
