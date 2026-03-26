@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Toxy</h1>
 <h3 align="center">🎓Computer Science Engineer</h3>
 
-- Thesis: [Unilocker](https://www.youtube.com/watch?v=I9tl_an5HkY)
-- Master's thesis: [OneTap & Ticketverse](https://www.youtube.com/watch?v=eBF6rLjg6GE)
+- Thesis: [Unilocker](https://imi.toxy.hu/?modal=video&id=unilocker)
+- Master's thesis: [OneTap & Ticketverse](https://imi.toxy.hu/?modal=video&id=onetap)
 
 - 🌐 Portfolio: [imi.toxy](https://imi.toxy.hu)
 
